@@ -1,1 +1,1 @@
-# GameGo
+# C++ implementation of Game Go
